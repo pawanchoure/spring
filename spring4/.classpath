@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources/bean-naming-xml"/>
+	<classpathentry kind="src" path="resources/method-replacer-xml"/>
+	<classpathentry kind="src" path="resources/method-injection-xml"/>
+	<classpathentry kind="src" path="resources/collection-injection-annotation"/>
+	<classpathentry kind="src" path="resources/collection-injection-xml"/>
+	<classpathentry kind="src" path="resources/annotation-injection"/>
+	<classpathentry kind="src" path="resources/constructor-confusion-xml"/>
+	<classpathentry kind="src" path="resources/setter-injection-xml"/>
+	<classpathentry kind="src" path="resources/bean-injection-xml"/>
+	<classpathentry kind="src" path="resources/helloworld-di"/>
+	<classpathentry kind="src" path="resources/parameters-injection-annotation"/>
+	<classpathentry kind="src" path="resources/setter-injection-annotation"/>
+	<classpathentry kind="src" path="resources/parameters-injection-spel-annotation"/>
+	<classpathentry kind="src" path="resources/parameters-injection-spel-xml"/>
+	<classpathentry kind="src" path="resources/parameters-injection-xml"/>
+	<classpathentry kind="src" path="resources/constructor-confusion-annotation"/>
+	<classpathentry kind="src" path="resources/constructor-injection-annotation"/>
+	<classpathentry kind="src" path="resources/constructor-injection-xml"/>
+	<classpathentry kind="src" path="resources/nested-applicationcontext-xml"/>
+	<classpathentry excluding="constructor-confusion-xml/|setter-injection-xml/|bean-injection-xml/|helloworld-di/|parameters-injection-annotation/|setter-injection-annotation/|parameters-injection-spel-annotation/|parameters-injection-spel-xml/|parameters-injection-xml/|constructor-confusion-annotation/|constructor-injection-annotation/|constructor-injection-xml/|nested-applicationcontext-xml/|annotation-injection/|collection-injection/|collection-injection-xml/|collection-injection-annotation/|method-injection-xml/|method-replacer-xml/|bean-naming-xml/" kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringJars"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringBootJars"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
