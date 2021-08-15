@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/bean-naming-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/method-replacer-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/method-injection-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/collection-injection-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/collection-injection-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/annotation-injection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/constructor-confusion-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/setter-injection-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/bean-injection-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/helloworld-di" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/parameters-injection-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/setter-injection-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/parameters-injection-spel-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/parameters-injection-spel-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/parameters-injection-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/constructor-confusion-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/constructor-injection-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/constructor-injection-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/nested-applicationcontext-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" exported="" name="SpringJars" level="project" />
+    <orderEntry type="library" name="SpringBootJars" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>

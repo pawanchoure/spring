@@ -1,0 +1,4 @@
+
+*.class
+*.idea/*
+spring5/.idea/*
